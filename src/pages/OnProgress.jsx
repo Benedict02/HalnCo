@@ -14,7 +14,7 @@ const OnProgress = () => {
         </Stack>
         <Stack>
           <p>
-            For RAQ please contact{" "}
+            For RFQ please contact{" "}
             <Link to="https://mail.google.com/mail/u/0/?to=hhartawan.assist@halnco.com&fs=1&tf=cm">
               hhartawan.assist@halnco.com
             </Link>
