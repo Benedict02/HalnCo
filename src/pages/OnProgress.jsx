@@ -6,6 +6,11 @@ const OnProgress = () => {
   return (
     <>
       <Stack className="torso" spacing={10}>
+        <img
+          src="https://britespanbuildings.com/wp-content/uploads/2023/02/aviation-aircraft-airlines-hangar.jpg"
+          alt="hangar"
+          className="bgimg"
+        />
         <Stack>
           <p style={{ fontSize: "2em" }}>
             <WarningIcon sx={{ color: "#f5b042" }} />
